@@ -1,0 +1,13 @@
+{
+    "name": "jekyll/dhimasganteng",
+    "description": "Package Template",
+    "license": "MIT",
+    "type": "composer-init-template",
+    "authors": [
+        {
+            "name": "Dhimas Ganteng",
+            "email": "john@example.com",
+            "role": "Author"
+        }
+    ]
+}
